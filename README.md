@@ -1,2 +1,3 @@
-# URL-Shortener
-Javascript App that takes a valid URL, shortens it, stores it in a MongoDB, and redirects back to the long original URL website from the shortened version.
+# URL Shortener Microservice
+
+This is the boilerplate code for the URL Shortener Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.
